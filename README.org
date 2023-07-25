@@ -1,0 +1,9 @@
+* html-template
+
+Use HTML templates from Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/edicl/html-template.git |
+| commit  | 048c472                                        |
+| systems | html-template                                  |
+|---------+------------------------------------------------|
